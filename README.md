@@ -25,3 +25,19 @@ Apasionado por la programación y la inteligencia artificial. Vengo del mundo de
 * 🎓 Formación técnica en Telecomunicaciones + especialización en IoT
 * 🤖 Cursando el máster de **Inteligencia Artificial** de Conquer Blocks
 * 📊 Experiencia práctica con **Numpy, Pandas, Matplotlib, scikit-learn, TensorFlow/Keras**
+
+---
+
+## 🛠️ Tecnologías
+
+**Lenguajes**
+`Python` · `SQL`
+
+**Data & IA**
+`Numpy` · `Pandas` · `Matplotlib` · `scikit-learn` · `TensorFlow` · `Keras`
+
+**Dev & Tools**
+`Git` · `GitHub` · `Docker` · `Linux` · `Google Colab`
+
+**IoT / Otros**
+`Postman` · `MQTT (Mosquitto)` · `Home Assistant` · `Nginx` · `DuckDNS`
