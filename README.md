@@ -41,3 +41,54 @@ Apasionado por la programación y la inteligencia artificial. Vengo del mundo de
 
 **IoT / Otros**
 `Postman` · `MQTT (Mosquitto)` · `Home Assistant` · `Nginx` · `DuckDNS`
+
+---
+
+## 📫 Contacto
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/pvpeuve)
+* 📧 [Email](mailto:userandroidsp@gmail.com)
+
+<!--
+## 📂 Proyectos destacados
+
+### 🧠 NLP – Clasificación de Spam
+
+📌 **Naive Bayes + Bag of Words**
+Proyecto de Machine Learning clásico aplicado a NLP.
+
+* Limpieza y vectorización de texto
+* Entrenamiento y evaluación del modelo
+* Notebook documentado paso a paso
+
+🔗 Repositorio: [https://github.com/pvpeuve/nlp-spam-classification](https://github.com/pvpeuve/nlp-spam-classification)
+🖼️ *Captura próximamente*
+
+---
+
+### 🐶 Clasificador de Imágenes (Cats vs Dogs)
+
+📌 **Deep Learning con CNN (TensorFlow/Keras)**
+Primer proyecto práctico de Deep Learning.
+
+* Dataset de imágenes
+* Red convolucional desde cero
+* Análisis de overfitting y métricas
+
+🔗 Repositorio: [https://github.com/pvpeuve/cats-vs-dogs-cnn](https://github.com/pvpeuve/cats-vs-dogs-cnn)
+🖼️ *Captura próximamente*
+
+---
+
+### 🌐 Servidor Web Local para Visualización de Datos (IoT)
+
+📌 Proyecto real desarrollado para una administración pública.
+
+* Servidor web alternativo a app propietaria
+* Visualización de datos en dispositivos no compatibles
+* Despliegue local
+
+🛠️ Tecnologías: Python, Web, IoT
+
+---
+-->
