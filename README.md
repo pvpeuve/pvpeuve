@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Hola, soy Pablo Varela Mille
 
-🚀 **Junior Developer | IA & Data | IoT**
+***Junior Developer | IA & Data | IoT***
+
 Apasionado por la programación y la inteligencia artificial. Vengo del mundo de las telecomunicaciones e IoT y actualmente me estoy especializando en **Inteligencia Artificial**, con foco en **Python, Machine Learning y Deep Learning**. Me gusta aprender construyendo proyectos reales, bien documentados y con buenas prácticas.
 
 ---
@@ -46,10 +47,11 @@ Apasionado por la programación y la inteligencia artificial. Vengo del mundo de
 
 ## 📫 Contacto
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/pvpeuve)
-* 📧 [Email](mailto:userandroidsp@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/pvpeuve)
+📧 [Email](mailto:userandroidsp@gmail.com)
 
-<!--
+---
+
 ## 📂 Proyectos destacados
 
 ### 🧠 NLP – Clasificación de Spam
@@ -61,9 +63,9 @@ Proyecto de Machine Learning clásico aplicado a NLP.
 * Entrenamiento y evaluación del modelo
 * Notebook documentado paso a paso
 
-🔗 Repositorio: [https://github.com/pvpeuve/nlp-spam-classification](https://github.com/pvpeuve/nlp-spam-classification)
-🖼️ *Captura próximamente*
-
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/pvpeuve/nlp-spam-classification-project)
+<!-- 🖼️ *Captura próximamente* -->
+<!-- 
 ---
 
 ### 🐶 Clasificador de Imágenes (Cats vs Dogs)
