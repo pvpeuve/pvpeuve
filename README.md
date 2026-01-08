@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pvpeuve/pvpeuve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hola, soy Pablo Varela Mille
+
+🚀 **Junior Developer | IA & Data | IoT**
+Apasionado por la programación y la inteligencia artificial. Vengo del mundo de las telecomunicaciones e IoT y actualmente me estoy especializando en **Inteligencia Artificial**, con foco en **Python, Machine Learning y Deep Learning**. Me gusta aprender construyendo proyectos reales, bien documentados y con buenas prácticas.
